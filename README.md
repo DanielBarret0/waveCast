@@ -6,7 +6,7 @@ Esse projeto tem como objetivo aprender e praticar conceitos de Grid com CSS.
 | -------------  | --- |
 | :sparkles: Nome        | **Wave Cast**
 | :label: Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-| :rocket: URL         | [WaveCast]()
+| :rocket: URL         | [WaveCast](https://wavecast.bohr.io)
 | :fire: Curso Alura     | [CSS: construindo layouts com Grid](https://cursos.alura.com.br/course/css-construindo-layouts-com-grid)
 
 ## Detalhes do projeto
