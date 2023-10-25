@@ -51,7 +51,7 @@ O CSS Grid torna mais fácil para você criar páginas da web bonitas, como se e
 
 ## ⭐ Layout completo 
 
-![Layout Completo]()
+![Layout Completo](https://github.com/DanielBarret0/waveCast/blob/main/src/gif%20e%20print/Wave%20cast%20gif.gif)
 
 # 🤯 Minha experiência
 
@@ -65,7 +65,7 @@ Amei fazer este curso, pois sempre hesitei em usar o Grid devido à minha falta 
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/waveCast/blob/main/src/gif%20e%20print/tela-inteira.png#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
